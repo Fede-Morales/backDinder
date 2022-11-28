@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "abee4aa8-7b92-4dc9-93d6-73b5cae7e72b",
+		"name": "Dinder",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10316897"
+	},
+	"item": [
+		{
+			"name": "GetAll",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/persona",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"persona"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,10 +1,10 @@
-package com.example.dinder;
+package com.dinder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DinderApplicationTests {
+class DinderJavaApplicationTests {
 
 	@Test
 	void contextLoads() {
